@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Code Editor</title>
+    <title>nobiLAB</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />   
     
     <link rel="stylesheet" href="style.css" /> 
@@ -13,22 +13,27 @@
       <h1 style="text-align: center;">nobiLAB</h1>
       <p style="text-align: center;">
       Simple Programming languange for optimization modelling with various solver from exact, heuristic, and metaheuristics.</br>
-      Developed by Nobita and friends from 22nd century, Indonesia.
+      Developed by Nobita and friends from 22nd century, Indonesia.</br>
+      <a href="https://www.goritma.id/nobilab/doc.html">LEARN nobiLAB</a>
       </p>
     
     </div>
     
     <div class="container">
       <div class="row">
-        <div class="col-sm">
+        <div class="col-2">
           <h5>Parameters</h5>
           <textarea id="par" placeholder="Parameters"></textarea>
         </div>  
-        <div class="col-sm">
+        <div class="col-4">
+          <h5>Supporting code</h5>
+          <textarea id="supportcode" placeholder="Code"></textarea> 
+        </div>
+        <div class="col-3">
           <h5>Objective Function</h5>
           <textarea id="fungsi" placeholder="Objective function"></textarea> 
         </div>
-        <div class="col-sm">
+        <div class="col-3">
           <h5>Constraint</h5>
           <textarea id="constraint" placeholder="Constraint"></textarea> 
         </div>   
