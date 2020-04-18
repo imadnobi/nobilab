@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+
+}
+
+  .nb{
+  width:30%;
+  color: #0900C4; 
+  font: Helvetica 12pt;
+  border: 1px solid black;
+  display: table;
+  }
+
+
+textarea {  
+  float: top;
+  width:100%;
+  min-height: 100px;  
+  overflow: scroll;
+  margin: auto;  
+  background: #f4f4f9;
+  outline: none;
+  font-family: Courier, sans-serif;
+  font-size: 14px;
+}
+
+iframe {
+  bottom: 0;
+  position: relative;
+  width: 100%;
+  height: 35em;
+}
