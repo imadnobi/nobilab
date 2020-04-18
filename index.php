@@ -10,7 +10,7 @@
   <body>
     
     <div class="container-fluid">
-      <h1 style="text-align: center;">IMNOBI</h1>
+      <h1 style="text-align: center;">nobiLAB</h1>
       <p style="text-align: center;">
       Simple Programming languange for optimization modelling with various solver from exact, heuristic, and metaheuristics.</br>
       Developed by Nobita and friends from 22nd century, Indonesia.
